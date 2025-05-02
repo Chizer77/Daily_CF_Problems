@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1600 | [CF835C](https://codeforces.com/problemset/problem/835/C) | The stars shine cyclically. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf835c.md) |
-| 2200 | [CF538F](https://codeforces.com/problemset/problem/538/F) | For each $k$, how many conditions should you check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf538f.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF375B](https://codeforces.com/problemset/problem/375/B) | Iterate over the right bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0502/solution/cf375b.md) |
+| 2100 | [CF631D](https://codeforces.com/problemset/problem/631/D) | The middle part should be exactly the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0502/solution/cf631d.md) |
